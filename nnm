@@ -1,0 +1,5 @@
+/docs
+/docs-util
+/www
+typedoc.*
+jest*
